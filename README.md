@@ -6,7 +6,7 @@ Explore detailed visualizations showcasing crime trends in Indiana, focusing on 
 
 ## Live Dashboard
 
-![Indiana Crime Data Dashboard](https://github.com/ChiranthanS/Visualisation/blob/main/dashboard.png)
+![Indiana Crime Data Dashboard](https://github.com/aniruddhochat/Indiana-Crime-Analysis/blob/6b0989e28869db550bb1d4024e19cdcd38b63abe/Property%20Crimes%20Victim%20vs%20Offender.png)
 
 You can access the live dashboard here: [Indiana Crime Data PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2EzMjljNDQtMjJjZC00NGM0LWE1NGYtZGQzZGMzODYwNzA5IiwidCI6IjExMTNiZTM0LWFlZDEtNGQwMC1hYjRiLWNkZDAyNTEwYmU5MSIsImMiOjN9)
 
